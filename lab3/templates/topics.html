@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Topics</title>
+        <link rel="stylesheet" href="static/styleTopics.css">
+    </head>
+
+    <body>
+        <h1>Topics covered:</h1>
+        {% for topic in topics %}
+            <p>{{topic}}</p>
+        {% endfor %}
+    </body>
+
+</html>
