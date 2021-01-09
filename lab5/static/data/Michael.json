@@ -1,0 +1,12 @@
+{
+    "fullName":"Michael Stone",
+    "age":21,
+    "college":"Columbia University",
+    "hobbies":[
+        "Gym",
+        "Games",
+        "Building Projects",
+        "Cooking"
+
+    ]
+}
